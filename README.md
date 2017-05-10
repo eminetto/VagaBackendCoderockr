@@ -28,7 +28,7 @@ We recommend that you spend not more than 8 hours on the challenge.
 
 6. Ability to write clear documentation
 
-# Submission
+# Start Challenge!
 
 1. [Click here](https://classroom.github.com/assignment-invitations/e3fc07fec392613f8d9e5326b28e807b).
 
