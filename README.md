@@ -1,3 +1,3 @@
 # Coding Challenge
 
-Read Issue #1
+Read [#1](/../../issues/1)
